@@ -1,3 +1,5 @@
+[![Check for lint errors](https://github.com/KOSASIH/astrobee/actions/workflows/lint.yaml/badge.svg)](https://github.com/KOSASIH/astrobee/actions/workflows/lint.yaml)
+
 # Astrobee Robot Software
 
 ### About
