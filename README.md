@@ -1,5 +1,6 @@
 [![Check for lint errors](https://github.com/KOSASIH/astrobee/actions/workflows/lint.yaml/badge.svg)](https://github.com/KOSASIH/astrobee/actions/workflows/lint.yaml)
 [![Build and Push Documentation to gh-pages Branch](https://github.com/KOSASIH/astrobee/actions/workflows/docs.yaml/badge.svg)](https://github.com/KOSASIH/astrobee/actions/workflows/docs.yaml)
+[![Deploy Jekyll with GitHub Pages dependencies preinstalled](https://github.com/KOSASIH/astrobee/actions/workflows/pages.yml/badge.svg)](https://github.com/KOSASIH/astrobee/actions/workflows/pages.yml)
 
 # Astrobee Robot Software
 
