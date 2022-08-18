@@ -1,4 +1,5 @@
 [![Check for lint errors](https://github.com/KOSASIH/astrobee/actions/workflows/lint.yaml/badge.svg)](https://github.com/KOSASIH/astrobee/actions/workflows/lint.yaml)
+[![Build and Push Documentation to gh-pages Branch](https://github.com/KOSASIH/astrobee/actions/workflows/docs.yaml/badge.svg)](https://github.com/KOSASIH/astrobee/actions/workflows/docs.yaml)
 
 # Astrobee Robot Software
 
